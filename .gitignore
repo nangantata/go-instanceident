@@ -36,3 +36,6 @@ Icon
 *.test
 *.out
 .glide/
+
+/instance_ident_example
+
